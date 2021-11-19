@@ -1,6 +1,8 @@
 # bikesharing
 ## Overview of the statistical analysis:
 The purpose of the analysis is use data to convice investors that a bike-sharing program in Des Moines is a solid business proposal.
+
+
 ## Results:
 <img width="1073" alt="Screen Shot 2021-11-19 at 12 58 44 PM" src="https://user-images.githubusercontent.com/88211298/142690870-4d2efe8c-4886-4b8b-85fb-17d4b4b64660.png">
 The peak of tripduration is 5 to 6 minutes. The range is between 0 to 40 minutes.
@@ -16,7 +18,11 @@ Subscriber use bikes more than customer, and male more than female.
 This image shows the proportion of user. It's obvious to see that we have 3/4 subscribers and 1/4 customers.
 <img width="981" alt="Screen Shot 2021-11-19 at 1 13 55 PM" src="https://user-images.githubusercontent.com/88211298/142692439-7e93dff8-5d4d-42e0-8503-ec92a0f7b7d9.png">
 The image shows the proportion of gender. And we can provide some services to attract female users.
+
+
 ## Summary:
+
+
 <img width="900" alt="Screen Shot 2021-11-19 at 1 39 53 PM" src="https://user-images.githubusercontent.com/88211298/142694947-6ec1ce33-9b99-4788-83c7-4c2af9a61a14.png">
 
 <img width="1053" alt="Screen Shot 2021-11-19 at 1 34 39 PM" src="https://user-images.githubusercontent.com/88211298/142694464-60bfac62-3655-4400-8639-33894d153b41.png">
